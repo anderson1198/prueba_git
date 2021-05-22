@@ -8,3 +8,6 @@ elif compra > 100 and compra< 300 :
     print("pago con targeta debito")
 else:
     print("pago con targeta de credito") 
+
+
+## este es un ejemplo de una rrama modificada
